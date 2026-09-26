@@ -6,6 +6,14 @@ A responsive business website designed and developed for **Trainquil Effects**, 
 
 ![Trainquil Effects website homepage](portfolio-assets/trainquil-effects-homepage.jpg)
 
+## Responsive Experience
+
+The website was designed from the beginning to provide a consistent experience across desktop, tablet, and mobile devices.
+
+![Trainquil Effects desktop website showcase](portfolio-assets/trainquil-effects-desktop-showcase.png)
+
+![Trainquil Effects mobile website showcase](portfolio-assets/trainquil-effects-mobile-showcase.png)
+
 ## About the Project
 
 Trainquil Effects needed a modern website that better reflected the personal, professional, and cooperative approach of the business.
